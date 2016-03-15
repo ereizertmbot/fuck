@@ -339,7 +339,8 @@ __________________________
 —---------------------—
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+Writed by seven team
+join chanel @sevenchanell
 ]]
   }
   serialize_to_file(config, './data/config.lua')
