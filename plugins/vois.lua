@@ -11,7 +11,7 @@ end
 return {
   description = "Convert text to voice",
   usage = {
-    "ویس [text]: Convert text to voice"
+    "ویس [متن]: Convert text to voice"
   },
   patterns = {
     "^ویس (.+)$"
